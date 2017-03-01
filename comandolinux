@@ -1,0 +1,10 @@
+Comando básico Linux
+---------------------
+pwd  | verifica em qual diretório estamos
+clear | limpa a tela
+mkdir | cria uma pasta
+cd ~ - volta à a pasta do user
+touch - criar um arquivo vazio exemplo.txt
+cd - | retornar um diretório
+ls | verificar arvore de arquivos
+ls -a | verifica arvores de arquivo incluindo ocultos
